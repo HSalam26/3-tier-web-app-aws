@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for deploying a 3-tier web app on AWS:
-
 # Deployment Guide for 3-Tier Web App on AWS
 
 This guide provides step-by-step instructions for deploying a 3-tier web application on AWS using Amazon EC2, Auto Scaling Groups, and Amazon RDS.
@@ -56,6 +54,4 @@ This guide provides step-by-step instructions for deploying a 3-tier web applica
 
 Congratulations! You have successfully deployed a 3-tier web application on AWS using EC2, Auto Scaling Groups, and RDS. Please follow the instructions carefully and ensure you have the necessary permissions and resources in place before proceeding with the deployment.
 
-For more detailed information and additional configurations, please refer to the official AWS documentation for each service.
 
-Happy deploying!
